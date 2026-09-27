@@ -37,7 +37,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phys. Chem. Chem. Phys., 2026</div><img src='images/tuwen1.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phys. Chem. Chem. Phys., 2026</div><img src='images/tuwen1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Haoxuan Chen`, Z. Zhao, Z. Wang, H. Zeng and X. Cheng, A theoretical study for the performance evaluation of the two-dimensional carbon Kagome lattice as an anode material for lithium-ion batteries, *Phys. Chem. Chem. Phys.*, 2026, 28, 13603–13613. (JCR:Q2; IF:3.0)
